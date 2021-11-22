@@ -1,0 +1,23 @@
+body{
+    color: rgb(204, 136, 252);
+    background-color: khaki;
+}
+header{
+    background-color: lightblue;
+}
+.navbar{
+    color: red;
+}
+.navbar ul{
+    align-items: center;
+    
+}
+.navbar ul li{
+    list-style: none;
+    justify-content: center;
+    text-align: center;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    
+}
